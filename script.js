@@ -14,3 +14,13 @@ function toggleMod() {
     img.setAttribute("src", "./assets/avatar.png")
   }
 }
+
+const obj = {
+  prop: {
+    name: "Manual do Dev",
+    info: {
+      youtube: "/manualdodev",
+      url: { value: "" },
+    },
+  },
+}
